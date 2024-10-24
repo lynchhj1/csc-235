@@ -1,0 +1,40 @@
+.responsive {
+  width: 33%;
+  height: auto;
+  border: 5px solid transparent;
+  transition: border 0.5s ease-in-out; 
+}
+
+body {
+  background-color: #6FB3B8;
+  font-family: Arial, sans-serif;
+  color: lime;
+}
+
+table, th, td {
+  font-family: 'Garamond', serif;
+  border: 1px solid black;
+  vertical-align: top;
+  color: #800020;
+  padding: 2px;
+}
+
+h1,h2,h3 {
+  color: #4B0082;
+  padding-bottom: 3px;
+}
+
+li {
+  color: #800020;
+  padding-bottom: 2px;
+}
+
+p {
+  color: #800020;
+  padding-bottom: 2px;
+}
+
+button {
+  background-color: black;
+  color: lime;
+}
